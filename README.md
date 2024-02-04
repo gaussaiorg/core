@@ -92,3 +92,25 @@ Open Files and go to your Downloads directory.
 Select the file gaussai-auto.sh, press the right button of your mouse and click on "Run as a Program" to automatically install your wallet and mine your first block.
 
 Enter your Ubuntu user password when requested.
+
+Tutorial - Automated installation and mine for blocks with Microsoft Windows
+------------
+Install and mine for blocks automatically with your Windows wallet.
+
+The tutorial is compatible with Windows 10 and above.
+
+Click here to download the file gaussai-auto.zip.
+https://gaussai.org/gaussai-auto-windows.zip
+Open File Explorer and go to your downloads directory.
+
+Right click the zip file gaussai-auto.zip and select "Properties".
+
+Select "Unblock".
+
+File unblock
+
+Press the button "OK".
+
+Extract the zip file gaussai-auto.zip
+
+Execute install.bat to automatically install your wallet and mine your first block.
