@@ -39,7 +39,14 @@ Press on the button "OK".
 
 Paste the following into notepad.
 
-rpcuser=rpc_gaussai rpcpassword=dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2 rpcbind=127.0.0.1 rpcallowip=127.0.0.1 listen=1 server=1 addnode=node3.walletbuilders.com
+rpcuser=rpc_gaussai 
+rpcpassword=dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2 
+rpcbind=127.0.0.1 
+rpcallowip=127.0.0.1 
+listen=1 
+server=1 
+addnode=97.74.90.60
+addnode=97.74.81.149
 
 Click on the menu item "File" -> "Save As...".
 
