@@ -1,16 +1,7 @@
 Gaussai Core staging tree 18.0
 ===========================
 
-|CI|master|develop|
-|-|-|-|
-|Gitlab|[![Build Status](https://gitlab.com/gaussaipay/gaussai/badges/master/pipeline.svg)](https://gitlab.com/gaussaipay/gaussai/-/tree/master)|[![Build Status](https://gitlab.com/gaussaipay/gaussai/badges/develop/pipeline.svg)](https://gitlab.com/gaussaipay/gaussai/-/tree/develop)|
-
 https://www.gaussai.org
-
-For an immediately usable, binary version of the Gaussai Core software, see
-https://www.gaussai.org/downloads/.
-
-Further information about Gaussai Core is available in the [doc folder](/doc).
 
 What is Gaussai?
 -------------
