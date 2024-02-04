@@ -1,0 +1,6 @@
+usr/local/bin/gaussai-qt usr/bin
+share/pixmaps/gaussai32.xpm usr/share/pixmaps
+share/pixmaps/gaussai16.xpm usr/share/pixmaps
+share/pixmaps/gaussai128.png usr/share/pixmaps
+debian/gaussai-qt.desktop usr/share/applications
+debian/gaussai-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Gaussai Core
+Comment=Gaussai P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Gaussai peer-to-peer Netzwerk
+Comment[fr]=Gaussai, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Gaussai, eşten eşe kriptografik sanal para birimi
+Exec=gaussai-qt %u
+Terminal=false
+Type=Application
+Icon=gaussai128
+MimeType=x-scheme-handler/gaussai;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=Gaussai-qt

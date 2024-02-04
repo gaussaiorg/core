@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/gaussai_ar.ts \
+  qt/locale/gaussai_bg.ts \
+  qt/locale/gaussai_de.ts \
+  qt/locale/gaussai_en.ts \
+  qt/locale/gaussai_es.ts \
+  qt/locale/gaussai_fi.ts \
+  qt/locale/gaussai_fr.ts \
+  qt/locale/gaussai_it.ts \
+  qt/locale/gaussai_ja.ts \
+  qt/locale/gaussai_ko.ts \
+  qt/locale/gaussai_nl.ts \
+  qt/locale/gaussai_pl.ts \
+  qt/locale/gaussai_pt.ts \
+  qt/locale/gaussai_ro.ts \
+  qt/locale/gaussai_ru.ts \
+  qt/locale/gaussai_sk.ts \
+  qt/locale/gaussai_th.ts \
+  qt/locale/gaussai_tr.ts \
+  qt/locale/gaussai_vi.ts \
+  qt/locale/gaussai_zh_CN.ts \
+  qt/locale/gaussai_zh_TW.ts
