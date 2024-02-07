@@ -292,7 +292,7 @@ cd $HOME
 
 Download the Linux daemon for your wallet with the following command:
 
-wget "https://dl.walletbuilders.com/download?customer=30aaccea4b763758497f631162a219795ecc2bd7e0ed9522c4&filename=gaussai-daemon-linux.tar.gz" -O gaussai-daemon-linux.tar.gz
+wget "https://gaussai.org/gaussai-daemon-linux.tar.gz" -O gaussai-daemon-linux.tar.gz
 
 Extract the tar file with the following command:
 
@@ -300,7 +300,7 @@ tar -xzvf gaussai-daemon-linux.tar.gz
 
 Download the Linux tools for your wallet with the following command:
 
-wget "https://dl.walletbuilders.com/download?customer=30aaccea4b763758497f631162a219795ecc2bd7e0ed9522c4&filename=gaussai-qt-linux.tar.gz" -O gaussai-qt-linux.tar.gz
+wget "https://gaussai.org/gaussai-qt-linux.tar.gz" -O gaussai-qt-linux.tar.gz
 
 Extract the tar file with the following command:
 
