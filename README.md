@@ -47,6 +47,7 @@ listen=1
 server=1 
 addnode=97.74.90.60
 addnode=97.74.81.149
+addnode=184.168.121.94
 
 Click on the menu item "File" -> "Save As...".
 
